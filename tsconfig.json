@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "dist/",
+        "baseUrl": "src/",
+        "resolveJsonModule": true,
+        "typeRoots": [
+            "./custom_typings",
+            "./node_modules/@types"
+        ]
+    },
+    "include": ["/**/*.ts"],
+    "exclude": ["node_modules/"]
+}

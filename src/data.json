@@ -1,0 +1,16 @@
+{
+    "parks": [
+        {"id":1, "name": "XCARET", "type": "park"},
+        {"id":2, "name": "XELHA", "type": "park"}
+    ],
+
+    "restaurants": [
+        {"id":3, "name": "El Fogon", "type": "restaurant"},
+        {"id":3, "name": "Doña Mari", "type": "restaurant"}
+    ],
+    
+    "cenotes": [
+        {"id":3, "name": "Cenote Dos Ojos", "type": "cenote"},
+        {"id":3, "name": "Cenote Dos Ojos", "type": "cenote"}
+    ]
+}
